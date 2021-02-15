@@ -1,0 +1,19 @@
+{
+  "name": "scope-string",
+  "version": "1.0.1",
+  "description": "create a random string suitable for css scoping eg. xvb0qh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-Browne/npm-scope-string.git"
+  },
+  "author": "Paul Browne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paul-Browne/npm-scope-string/issues"
+  },
+  "homepage": "https://github.com/Paul-Browne/npm-scope-string#readme"
+}
